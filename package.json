@@ -67,7 +67,7 @@
     "echarts-for-react": "^2.0.15-beta.1",
     "font-awesome": "4.7.0",
     "glyphicons-halflings": "^1.9.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "line-awesome": "github:icons8/line-awesome",
     "moment": "^2.22.2",
     "prettier": "^2.0.5",
